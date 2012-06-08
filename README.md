@@ -21,6 +21,7 @@ II. Features
 - Run batch commands (one command after another)
 - Save and run command routines with modifiable arguments.
 - Auto-detection for Essentials. Some commands will adapt to the change.
+- Now with broadcasting feature. Uses say command.
 
 ========================================================
 III. Todo
@@ -28,3 +29,16 @@ III. Todo
 
 - Player list (haven't found a way yet)
 - Auto update (bukkit.jar and CraftServerManager.exe)
+
+========================================================
+IV. Change Log
+========================================================
+
+v1.1
+-----
+- Added broadcast feature
+- Fixed some bugs
+
+v1.0
+-----
+- Initial Release
