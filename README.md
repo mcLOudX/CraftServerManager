@@ -42,3 +42,9 @@ v1.1
 v1.0
 -----
 - Initial Release
+
+========================================================
+V. Source Code
+========================================================
+
+Written in VB.NET. The source code is really messy, undocumented, and ugly. You wouldn't want to look at it. The controls are not named out of laziness, subs are written all over in random places, lines are not commented, etc. But I'll try uploading it later on.
