@@ -47,4 +47,4 @@ v1.0
 V. Source Code
 ========================================================
 
-Written in VB.NET. The source code is really messy, undocumented, and ugly. You wouldn't want to look at it. The controls are not named out of laziness (reaching Button49!), subs are written all over in random places without proper names, lines are not commented, etc. But I'll try uploading it later on.
+Written in VB.NET. The source code is really messy, undocumented, and ugly. You wouldn't want to look at it. The controls are not named out of laziness (reaching Button49!), subs are written all over in random places without proper names, lines are not commented, etc. But I'll try uploading it later on to show you how bad it is.
