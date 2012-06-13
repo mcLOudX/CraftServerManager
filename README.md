@@ -9,7 +9,7 @@ I. Introduction
 
 CraftServerManager is a simple Bukkit Server wrapper. 
 Because it is simple, it doesn't offer very advanced 
-functions like the other wrappers.
+functions like the other wrappers. Please note that you'll need .NET Framework 4 to run this.
 
 ========================================================
 II. Features
